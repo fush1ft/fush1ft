@@ -27,10 +27,10 @@
 
 <h3 align="left">Contact 📧</h3>
 <p align="left">
-  <a href="mailto:franta@example.com"> 
+  <a href="mailto:fushift@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> 
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"> 
+  <a href="https://discord.com/users/793771510841737219"> 
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /> 
   </a>
 </p>
