@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Franta (Fush1ft)</h1>
 <h3 align="center">13-year-old IT geek, hacker enthusiast, and programmer</h3>
+<p align="center">
+  I love building things with Linux, embedded hardware, and code. I enjoy experimenting,
+  learning new tech, and sharing my progress.
+</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Fush1ft&label=Profile%20views&color=0e75b6&style=flat" alt="Fush1ft" /> 
@@ -7,9 +11,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://github.com/Fush1ft" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Fush1ft GitHub" height="30" width="40" />
+    </a>
     <a href="https://www.youtube.com/@Fushift" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Fushift" height="30" width="40" />
     </a>
+</p>
+
+<h3 align="left">Currently learning:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Ethical Hacking" />
+  <img src="https://img.shields.io/badge/ESP32%20Projects-2C9F6A?style=for-the-badge" alt="ESP32 Projects" />
+  <img src="https://img.shields.io/badge/Python%20Automation-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,6 +39,14 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
+<h3 align="left">Focus areas:</h3>
+<ul>
+  <li>Linux customization and tooling</li>
+  <li>ESP32/embedded experiments</li>
+  <li>Security labs and CTF-style challenges</li>
+  <li>Automation scripts and small utilities</li>
+</ul>
+
 <h3 align="left">Contact 📧</h3>
 <p align="left">
   <a href="mailto:fushift@gmail.com"> 
@@ -35,9 +57,20 @@
   </a>
 </p>
 
+<h3 align="left">Goals for 2024:</h3>
+<ul>
+  <li>Ship more open-source projects on GitHub and document them</li>
+  <li>Build a polished ESP32 project from prototype to release</li>
+  <li>Level up in Python and network security fundamentals</li>
+</ul>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fush1ft&show_icons=true&theme=radical&hide_border=false"><br/>
   <img src="https://streak-stats.demolab.com?user=Fush1ft&theme=radical&hide_border=false"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fush1ft&layout=compact&theme=radical&hide_border=false">
   <img src="https://github-profile-trophy.vercel.app/?username=Fush1ft&theme=radical&no-frame=false&no-bg=true&margin-w=4">
 </div>
+
+<p align="center">
+  Thanks for stopping by! ⭐ If you like what I do, consider following on GitHub.
+</p>
