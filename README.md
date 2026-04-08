@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Franta (Fush1ft)</h1>
-<h3 align="center">13-year-old IT geek, hacker enthusiast, and programmer</h3>
+<h3 align="center">14-year-old IT geek, hacker enthusiast, and programmer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Fush1ft&label=Profile%20views&color=0e75b6&style=flat" alt="Fush1ft" /> 
