@@ -54,26 +54,24 @@
 <h3>🚀 Featured projects</h3>
 <p>
   <a href="https://github.com/fush1ft/24tab-proxy">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=fush1ft&repo=24tab-proxy&theme=radical&hide_border=false" alt="24tab-proxy" />
+    <img align="top" src="https://github-readme-stats-pied.vercel.app/api/pin/?username=fush1ft&repo=24tab-proxy&theme=radical&hide_border=false" alt="24tab-proxy" />
   </a>
   <a href="https://github.com/fush1ft/fushift-portfolio">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=fush1ft&repo=fushift-portfolio&theme=radical&hide_border=false" alt="fushift-portfolio" />
+    <img align="top" src="https://github-readme-stats-pied.vercel.app/api/pin/?username=fush1ft&repo=fushift-portfolio&theme=radical&hide_border=false" alt="fushift-portfolio" />
   </a>
   <a href="https://github.com/fush1ft/ATC24PILOT">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=fush1ft&repo=ATC24PILOT&theme=radical&hide_border=false" alt="ATC24PILOT" />
+    <img align="top" src="https://github-readme-stats-pied.vercel.app/api/pin/?username=fush1ft&repo=ATC24PILOT&theme=radical&hide_border=false" alt="ATC24PILOT" />
   </a>
 </p>
 
 <h3>📊 GitHub stats</h3>
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fush1ft&show_icons=true&theme=radical&hide_border=false" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fush1ft&layout=compact&theme=radical&hide_border=false" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-pied.vercel.app/api?username=Fush1ft&show_icons=true&theme=radical&hide_border=false" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-pied.vercel.app/api/top-langs/?username=Fush1ft&layout=compact&theme=radical&hide_border=false" alt="Top languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=Fush1ft&theme=radical&hide_border=false" alt="GitHub streak" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fush1ft&theme=react-dark&hide_border=false&bg_color=1a1b27&color=e0e0e0&line=0e75b6&point=8a2be2" alt="Activity graph" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Fush1ft&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 <h3>🐍 Contribution snake</h3>
