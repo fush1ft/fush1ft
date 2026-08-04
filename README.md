@@ -52,23 +52,26 @@
 </p>
 
 <h3>🚀 Featured projects</h3>
-<p>
-  <a href="https://github.com/fush1ft/24tab-proxy">
-    <img align="top" src="https://github-readme-stats-pied.vercel.app/api/pin/?username=fush1ft&repo=24tab-proxy&theme=radical&hide_border=false" alt="24tab-proxy" />
-  </a>
-  <a href="https://github.com/fush1ft/fushift-portfolio">
-    <img align="top" src="https://github-readme-stats-pied.vercel.app/api/pin/?username=fush1ft&repo=fushift-portfolio&theme=radical&hide_border=false" alt="fushift-portfolio" />
-  </a>
-  <a href="https://github.com/fush1ft/ATC24PILOT">
-    <img align="top" src="https://github-readme-stats-pied.vercel.app/api/pin/?username=fush1ft&repo=ATC24PILOT&theme=radical&hide_border=false" alt="ATC24PILOT" />
-  </a>
-</p>
+
+**[24tab-proxy](https://github.com/fush1ft/24tab-proxy)** — API proxy for the 24tab airspace tracking tool
+<br/>
+<img src="https://img.shields.io/github/languages/top/fush1ft/24tab-proxy?style=flat-square&color=0e75b6" alt="Top language" />
+<img src="https://img.shields.io/github/last-commit/fush1ft/24tab-proxy?style=flat-square&color=8a2be2" alt="Last commit" />
+
+**[fushift-portfolio](https://github.com/fush1ft/fushift-portfolio)** — my personal portfolio site
+<br/>
+<img src="https://img.shields.io/github/languages/top/fush1ft/fushift-portfolio?style=flat-square&color=0e75b6" alt="Top language" />
+<img src="https://img.shields.io/github/last-commit/fush1ft/fushift-portfolio?style=flat-square&color=8a2be2" alt="Last commit" />
+
+**[ATC24PILOT](https://github.com/fush1ft/ATC24PILOT)** — pilot-side tooling for ATC24
+<br/>
+<img src="https://img.shields.io/github/languages/top/fush1ft/ATC24PILOT?style=flat-square&color=0e75b6" alt="Top language" />
+<img src="https://img.shields.io/github/last-commit/fush1ft/ATC24PILOT?style=flat-square&color=8a2be2" alt="Last commit" />
 
 <h3>📊 GitHub stats</h3>
 <div align="center">
-  <img height="165" src="https://github-readme-stats-pied.vercel.app/api?username=Fush1ft&show_icons=true&theme=radical&hide_border=false" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-pied.vercel.app/api/top-langs/?username=Fush1ft&layout=compact&theme=radical&hide_border=false" alt="Top languages" />
-  <br/>
+  <img src="https://img.shields.io/github/followers/fush1ft?style=for-the-badge&label=Followers&color=0e75b6" alt="Followers" />
+  <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Fush1ft&theme=radical&hide_border=false" alt="GitHub streak" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fush1ft&theme=react-dark&hide_border=false&bg_color=1a1b27&color=e0e0e0&line=0e75b6&point=8a2be2" alt="Activity graph" />
