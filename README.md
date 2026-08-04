@@ -23,9 +23,6 @@
   <a href="https://fushift.fun" target="_blank">
     <img src="https://img.shields.io/badge/Website-fushift.fun-8A2BE2?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.youtube.com/@Fushift" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
   <a href="https://discord.com/users/793771510841737219" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
