@@ -69,9 +69,9 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/fush1ft?style=for-the-badge&label=Followers&color=0e75b6" alt="Followers" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=Fush1ft&theme=radical&hide_border=false" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=fush1ft&theme=radical&hide_border=false" alt="GitHub streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fush1ft&theme=react-dark&hide_border=false&bg_color=1a1b27&color=e0e0e0&line=0e75b6&point=8a2be2" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fush1ft&theme=react-dark&hide_border=false&bg_color=1a1b27&color=e0e0e0&line=0e75b6&point=8a2be2" alt="Activity graph" />
 </div>
 
 <h3>🐍 Contribution snake</h3>
