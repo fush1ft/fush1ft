@@ -1,45 +1,64 @@
-<h1 align="center">Hi, I'm Franta (Fush1ft)</h1>
-<h3 align="center">13-year-old IT geek, hacker enthusiast, and programmer</h3>
-<p align="center">
-  I love building things with Linux, embedded hardware, and code. I enjoy experimenting,
-  learning new tech, and sharing my progress.
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Franta+%F0%9F%91%8B;a.k.a+Fush1ft;14-year-old+Developer+%26+Hacker+Enthusiast;I+build+things%2C+break+things%2C+then+fix+them;Welcome+to+my+profile+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=Fush1ft&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+### 👋 About me
+
+- 🇨🇿 Based in Czechia, coding since I was a kid
+- 🛠️ Currently building **[24tab](https://github.com/fush1ft/24tab)** — airspace control & live tracking tooling, plus its API proxy
+- 🌐 Personal site & portfolio: **[fushift.fun](https://fushift.fun)**
+- 🔐 Into Linux, self-hosting, and offensive/defensive security as a hobby
+- ⚡ Always tinkering with a new stack — currently deep in JS/PHP backends and ESP32 side-projects
+- 📫 Reach me on Telegram or Discord — I usually reply fast
+
+<h3>🔗 Connect with me</h3>
+<p>
+  <a href="https://github.com/Fush1ft" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/fush1ft" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://fushift.fun" target="_blank">
+    <img src="https://img.shields.io/badge/Website-fushift.fun-8A2BE2?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://discord.com/users/793771510841737219" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:fushift@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Fush1ft&label=Profile%20views&color=0e75b6&style=flat" alt="Fush1ft" /> 
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://github.com/Fush1ft" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Fush1ft GitHub" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/@Fushift" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Fushift" height="30" width="40" />
-    </a>
-</p>
-
-<h3 align="left">Currently learning:</h3>
-<p align="left">
+<h3>📚 Currently learning</h3>
+<p>
   <img src="https://img.shields.io/badge/Ethical%20Hacking-111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Ethical Hacking" />
   <img src="https://img.shields.io/badge/ESP32%20Projects-2C9F6A?style=for-the-badge" alt="ESP32 Projects" />
   <img src="https://img.shields.io/badge/Python%20Automation-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3>🧰 Languages & tools</h3>
+<p>
 <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" alt="Linux" />
 <img src="https://img.shields.io/badge/Kali-264653?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali" />
 <img src="https://img.shields.io/badge/ESP32-2C9F6A?style=for-the-badge" alt="ESP32" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<h3 align="left">Focus areas:</h3>
+<h3>🎯 Focus areas</h3>
 <ul>
   <li>Linux customization and tooling</li>
   <li>ESP32/embedded experiments</li>
@@ -47,30 +66,49 @@
   <li>Automation scripts and small utilities</li>
 </ul>
 
-<h3 align="left">Contact 📧</h3>
-<p align="left">
-  <a href="mailto:fushift@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> 
-  </a>
-  <a href="https://discord.com/users/793771510841737219"> 
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /> 
-  </a>
-</p>
+<h3>🚀 Featured projects</h3>
 
-<h3 align="left">Goals for 2024:</h3>
+**[24tab-proxy](https://github.com/fush1ft/24tab-proxy)** — API proxy for the 24tab airspace tracking tool
+<br/>
+<img src="https://img.shields.io/github/languages/top/fush1ft/24tab-proxy?style=flat-square&color=0e75b6" alt="Top language" />
+<img src="https://img.shields.io/github/last-commit/fush1ft/24tab-proxy?style=flat-square&color=8a2be2" alt="Last commit" />
+
+**[fushift-portfolio](https://github.com/fush1ft/fushift-portfolio)** — my personal portfolio site
+<br/>
+<img src="https://img.shields.io/github/languages/top/fush1ft/fushift-portfolio?style=flat-square&color=0e75b6" alt="Top language" />
+<img src="https://img.shields.io/github/last-commit/fush1ft/fushift-portfolio?style=flat-square&color=8a2be2" alt="Last commit" />
+
+**[ATC24PILOT](https://github.com/fush1ft/ATC24PILOT)** — pilot-side tooling for ATC24
+<br/>
+<img src="https://img.shields.io/github/languages/top/fush1ft/ATC24PILOT?style=flat-square&color=0e75b6" alt="Top language" />
+<img src="https://img.shields.io/github/last-commit/fush1ft/ATC24PILOT?style=flat-square&color=8a2be2" alt="Last commit" />
+
+<h3>✅ Goals for 2024</h3>
 <ul>
   <li>Ship more open-source projects on GitHub and document them</li>
   <li>Build a polished ESP32 project from prototype to release</li>
   <li>Level up in Python and network security fundamentals</li>
 </ul>
 
+<h3>📊 GitHub stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fush1ft&show_icons=true&theme=radical&hide_border=false"><br/>
-  <img src="https://streak-stats.demolab.com?user=Fush1ft&theme=radical&hide_border=false"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fush1ft&layout=compact&theme=radical&hide_border=false">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fush1ft&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+  <img src="https://img.shields.io/github/followers/fush1ft?style=for-the-badge&label=Followers&color=0e75b6" alt="Followers" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=fush1ft&theme=radical&hide_border=false" alt="GitHub streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fush1ft&theme=react-dark&hide_border=false&bg_color=1a1b27&color=e0e0e0&line=0e75b6&point=8a2be2" alt="Activity graph" />
 </div>
 
+<h3>🐍 Contribution snake</h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fush1ft/fush1ft/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fush1ft/fush1ft/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/fush1ft/fush1ft/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<p align="center"><sub>⚡ This README auto-updates its contribution snake via GitHub Actions.</sub></p>
 <p align="center">
-  Thanks for stopping by! ⭐ If you like what I do, consider following on GitHub.
+  If you like what I build, feel free to follow me on GitHub.
 </p>
