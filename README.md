@@ -17,6 +17,9 @@
 
 <h3>🔗 Connect with me</h3>
 <p>
+  <a href="https://github.com/Fush1ft" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://t.me/fush1ft" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
@@ -29,6 +32,13 @@
   <a href="mailto:fushift@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
+
+<h3>📚 Currently learning</h3>
+<p>
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Ethical Hacking" />
+  <img src="https://img.shields.io/badge/ESP32%20Projects-2C9F6A?style=for-the-badge" alt="ESP32 Projects" />
+  <img src="https://img.shields.io/badge/Python%20Automation-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation" />
 </p>
 
 <h3>🧰 Languages & tools</h3>
@@ -48,6 +58,14 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
+<h3>🎯 Focus areas</h3>
+<ul>
+  <li>Linux customization and tooling</li>
+  <li>ESP32/embedded experiments</li>
+  <li>Security labs and CTF-style challenges</li>
+  <li>Automation scripts and small utilities</li>
+</ul>
+
 <h3>🚀 Featured projects</h3>
 
 **[24tab-proxy](https://github.com/fush1ft/24tab-proxy)** — API proxy for the 24tab airspace tracking tool
@@ -64,6 +82,13 @@
 <br/>
 <img src="https://img.shields.io/github/languages/top/fush1ft/ATC24PILOT?style=flat-square&color=0e75b6" alt="Top language" />
 <img src="https://img.shields.io/github/last-commit/fush1ft/ATC24PILOT?style=flat-square&color=8a2be2" alt="Last commit" />
+
+<h3>✅ Goals for 2024</h3>
+<ul>
+  <li>Ship more open-source projects on GitHub and document them</li>
+  <li>Build a polished ESP32 project from prototype to release</li>
+  <li>Level up in Python and network security fundamentals</li>
+</ul>
 
 <h3>📊 GitHub stats</h3>
 <div align="center">
@@ -84,3 +109,6 @@
 </div>
 
 <p align="center"><sub>⚡ This README auto-updates its contribution snake via GitHub Actions.</sub></p>
+<p align="center">
+  If you like what I build, feel free to follow me on GitHub.
+</p>
